@@ -1,0 +1,10 @@
+.Warning{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	color :#eb5963;
+	padding-top:5px;
+}
+.Norm{
+	padding-top:25px;
+}

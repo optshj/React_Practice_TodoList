@@ -1,0 +1,103 @@
+.Delete{
+	display:flex;
+	cursor:pointer;
+	color:#e9ecef;
+	display:none;
+	font-size:24px;
+	align-items:center;
+	justify-content:center;
+}
+.Delete:hover{
+	color:#ff6b6b;
+}
+.TodoItem{
+	display:flex;
+	align-items:center;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.TodoItem:hover .Delete{
+	display:initial;
+}
+.Text{
+	display:flex;
+	flex:1;
+	font-size:21px;
+}
+.doneText{
+	display:flex;
+	flex:1;
+	font-size:21px;
+	color:#ced4da;
+}
+.NotCheckCircle{
+	display:flex;
+	width:32px;
+	height:32px;
+	border-radius:16px;
+	border:1px solid #ced4da;
+	justify-content:center;
+	align-items:center;
+	cursor:pointer;
+	margin-right:12px;
+}
+.CheckCircle{
+	color:#38d9a9;
+	display:flex;
+	width:32px;
+	height:32px;
+	border-radius:16px;
+	border:1px solid #38d9a9;
+	justify-content:center;
+	align-items:center;
+	cursor:pointer;
+	margin-right:12px;
+	font-size:24px;
+}
+.Modify{
+	display:flex;
+	display:none;
+	color:#e9ecef;
+	cursor:pointer;
+	font-size:24px;
+	padding-right:5px;
+}
+.TodoItem:hover .Modify{
+	display:initial;
+}
+.Modify:hover{
+	color:#002644;
+}
+.ModifyInput{
+	display:flex;
+	font-size:21px;
+	border-radius:6px;
+}
+.cancel:hover{
+	color:#ff6b6b;
+}
+.cancel{
+	display:flex;
+	font-size:24px;
+	cursor:pointer;
+	color:#e9ecef;
+	align-items:center;
+	justify-content:center;
+}
+.check:hover{
+	color:#63CC63;
+}
+.check{
+	padding-right:5px;
+	padding-left:5px;
+	display:flex;
+	font-size:24px;
+	cursor:pointer;
+	color:#e9ecef;
+	align-items:center;
+	justify-content:center;
+}
+.Form{
+	display:flex;
+	flex:1;
+}

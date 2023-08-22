@@ -1,0 +1,17 @@
+.TodoHead{
+	padding-top:20px;
+	padding-left:30px;
+	padding-bottom:20px;
+	border-bottom : 1px solid #e9ecef;
+}
+.Date{
+	font-size:40px;
+	color: #343a40;
+}
+.Day{
+	color:#a0a0a0;
+	margin-bottom:20px;
+}
+.Left{
+	color:#48DAD2;
+}
