@@ -7,3 +7,6 @@
   5. 할 일 수정 구현
   6. 내용이 없을 때 경고 구현
 ```
+## 동작
+
+![녹음 2023-08-22 174842](https://github.com/optshj/React_Practice_TodoList/assets/105402944/47bf732e-fdf4-4a29-ae59-aec33e3e7f83)
