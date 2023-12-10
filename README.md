@@ -1,4 +1,8 @@
+
 # 리액트 연습(투두리스트)
+https://react.vlpt.us/mashup-todolist/
+## 프로젝트 실행
+    npm start
 ```
   1. 오늘 날짜 표시
   2. 할 일 갯수 표시
